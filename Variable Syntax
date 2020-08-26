@@ -1,0 +1,9 @@
+<variable_type> <variable_name>  //declaration
+
+int varInt;  
+float varFloat;
+
+
+<variable_type> <variable_name> = <value>;  //initialization
+
+int varInt = 35;
