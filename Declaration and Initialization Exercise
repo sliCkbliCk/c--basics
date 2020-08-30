@@ -1,6 +1,6 @@
 using System;
 
-namespace VariableExampleOne
+namespace VariablesExampleOne
 {
     class Program
     {
@@ -17,7 +17,6 @@ namespace VariableExampleOne
             Console.WriteLine("Value of Bool is " + boolean);
             Console.WriteLine("Value of Double is " + doubleNumber);
             Console.WriteLine("Value of Char is " + charName);
-
         }
     }
 }
