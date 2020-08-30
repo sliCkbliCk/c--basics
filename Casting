@@ -1,0 +1,18 @@
+(type)name
+
+using System;
+
+namespace VariableExampleOne
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      float frstfloat = 56.354f;
+      Console.WriteLine("The variable frstfloat has is " + frstfloat);
+      int scndfloat = (int)frstfloat;
+      Console.WriteLine("The integer cast of frstfloat is " + scndfloat);
+    }
+  }
+}
+      
