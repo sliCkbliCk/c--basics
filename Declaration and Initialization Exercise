@@ -1,0 +1,23 @@
+using System;
+
+namespace VariableExampleOne
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int intNumber = 30;
+            float floatNumber = 30.78f;
+            bool boolean = true;
+            double doubleNumber = 45.1234;
+            char charName = 'u';
+            
+            Console.WriteLine("Value of Integer is " + intNumber);
+            Console.WriteLine("Value of Float is " + floatNumber);
+            Console.WriteLine("Value of Bool is " + boolean);
+            Console.WriteLine("Value of Double is " + doubleNumber);
+            Console.WriteLine("Value of Char is " + charName);
+
+        }
+    }
+}
